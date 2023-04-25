@@ -1,0 +1,36 @@
+class AppStrings {
+  static const String appTitle = 'Flutter Tasks Manager App';
+  static const String addTask = 'Add Task';
+  static const String title = 'Title';
+  static const String description = 'Description';
+  static const String cancel = 'cancel';
+  static const String add = 'Add';
+  static const String edit = 'Edit';
+  static const String editTask = 'Edit Task';
+  static const String tasks = 'Tasks';
+  static const String save = 'Save';
+  static const String delete = 'Delete';
+  static const String restore = 'Restore';
+  static const String deleteForever = 'Delete Forever';
+  static const String forgotPassword = 'Forgot Password';
+  static const String emailError = 'Email is required';
+  static const String login = 'Login';
+  static const String insertEmailLabel = 'Insert email';
+  static const String insertPasswordLabel = 'Insert password';
+  static const String passwordError = 'Password is required';
+  static const String passwordMinError = 'Password should be at least 6 characters';
+  static const String accountNotAvailable = 'Don\'t have an Account?';
+  static const String taskDrawer = 'Task Drawer';
+  static const String myTasks = 'My Tasks';
+  static const String bin = 'Bin';
+  static const String pending = 'Pending';
+  static const String completed = 'Completed';
+  static const String recycleBin = 'Recycle Bin';
+  static const String deleteAllTasks = 'Delete all tasks';
+  static const String register = 'Register';
+  static const String pendingTasks = 'Pending Tasks';
+  static const String completedTasks = 'Completed Tasks';
+  static const String favouriteTasks = 'Favorite Tasks';
+  static const String addToBookmarks = 'Add to \nBookmarks';
+  static const String removeBookmarks = 'Remove from \nBookmarks';
+}
