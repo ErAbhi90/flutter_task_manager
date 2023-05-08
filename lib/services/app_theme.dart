@@ -48,7 +48,7 @@ class AppThemes {
         ),
       ),
       textTheme: TextTheme(
-        titleMedium: TextStyle(color: AppColors.textLightColor),
+        titleMedium: TextStyle(color: AppColors.textLightColor), 
       ),
       bottomNavigationBarTheme: BottomNavigationBarThemeData(
           backgroundColor: AppColors.navBarBgLightColor,

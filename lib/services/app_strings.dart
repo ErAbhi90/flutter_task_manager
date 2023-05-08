@@ -3,7 +3,7 @@ class AppStrings {
   static const String addTask = 'Add Task';
   static const String title = 'Title';
   static const String description = 'Description';
-  static const String cancel = 'cancel';
+  static const String cancel = 'Cancel';
   static const String add = 'Add';
   static const String edit = 'Edit';
   static const String editTask = 'Edit Task';

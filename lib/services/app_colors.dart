@@ -22,7 +22,7 @@ class AppColors {
   static var dividerLightColor = const Color(0xff757575);
   static var fabForegroundLightColor = Colors.white;
   static var buttonForegroundLightColor = Colors.black;
-  static var textLightColor = Colors.white;
+  static var textLightColor = Colors.black87;
   static var navBarBgLightColor = Colors.blue;
   static var selectedItemLightColor = Colors.black87;
   static var unselectedItemLightColor = Colors.white;
